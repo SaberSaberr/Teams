@@ -1,6 +1,6 @@
 # Teams
 CRUD with node js and graphql
-git clone 
+git clone https://github.com/SaberSaberr/Teams.git
 cd CRUDProjectWithNODEandGraphQL
 cd GraphqlTeamProject
 yarn install
