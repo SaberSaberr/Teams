@@ -1,5 +1,5 @@
 # Teams
-CRUD with node js and graphql
+CRUD with node js Express and graphql
 git clone https://github.com/SaberSaberr/Teams.git
 cd CRUDProjectWithNODE_ExpressandGraphQL
 cd GraphqlTeamProject
